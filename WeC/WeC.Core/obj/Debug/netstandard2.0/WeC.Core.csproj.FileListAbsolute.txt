@@ -1,0 +1,10 @@
+C:\Users\bonda\source\repos\v1nchiko\WeC\WeC\WeC.Core\bin\Debug\netstandard2.0\WeC.Core.deps.json
+C:\Users\bonda\source\repos\v1nchiko\WeC\WeC\WeC.Core\bin\Debug\netstandard2.0\WeC.Core.dll
+C:\Users\bonda\source\repos\v1nchiko\WeC\WeC\WeC.Core\bin\Debug\netstandard2.0\WeC.Core.pdb
+C:\Users\bonda\source\repos\v1nchiko\WeC\WeC\WeC.Core\obj\Debug\netstandard2.0\WeC.Core.csproj.AssemblyReference.cache
+C:\Users\bonda\source\repos\v1nchiko\WeC\WeC\WeC.Core\obj\Debug\netstandard2.0\WeC.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bonda\source\repos\v1nchiko\WeC\WeC\WeC.Core\obj\Debug\netstandard2.0\WeC.Core.AssemblyInfoInputs.cache
+C:\Users\bonda\source\repos\v1nchiko\WeC\WeC\WeC.Core\obj\Debug\netstandard2.0\WeC.Core.AssemblyInfo.cs
+C:\Users\bonda\source\repos\v1nchiko\WeC\WeC\WeC.Core\obj\Debug\netstandard2.0\WeC.Core.csproj.CoreCompileInputs.cache
+C:\Users\bonda\source\repos\v1nchiko\WeC\WeC\WeC.Core\obj\Debug\netstandard2.0\WeC.Core.dll
+C:\Users\bonda\source\repos\v1nchiko\WeC\WeC\WeC.Core\obj\Debug\netstandard2.0\WeC.Core.pdb

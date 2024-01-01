@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "e0O4Zd+QBb4XB35qvBbJ7vcMX+1S4CZfmlEpsU2r4XJU23MCHzLn+wEZ4Dg33hoECXnpdCzWjAhCgDP6Ca3tWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bonda\\source\\repos\\v1nchiko\\WeC\\WeC\\WeC.Core\\WeC.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bonda\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\bonda\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\bonda\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
